@@ -1,6 +1,6 @@
-# Readme - Code Samples for Bonus Chapter 2, XML and JSON
+# Readme XML and JSON
 
-This chapter contains the following code samples:
+contains the following code samples:
 
 * XmlReaderAndWriterSample (reading and writing XML using `XmlReader` and `XmlWriter`)
 * XmlDocumentSample (reading and writing XML using `XmlDocument`)
