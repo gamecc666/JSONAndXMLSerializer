@@ -2,9 +2,9 @@
 using System.IO;
 using System.Xml.Serialization;
 
-/// <summary>
-/// 使用XML属性将对象序列化和反序列化为XML
-/// </summary>
+/*
+ * 使用XML属性将对象序列化和反序列化为XML
+ */ </summary>
 namespace ObjectToXmlSerializationSample
 {
     class Program
